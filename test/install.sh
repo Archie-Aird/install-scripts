@@ -1,5 +1,5 @@
-packageman=$SPECIAL:PM
-distro=$SPECIAL:DS
+packageman=SPECIALPM
+distro=SPECIALDS
 
 echo "Test pass!"
 echo "You are on $distro using $packageman"
